@@ -42,7 +42,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 3,
-            "name": "ヒルチャール"
+            "name": "銅スライム"
         },
         {
             "imageName": "silver-club",
@@ -50,7 +50,7 @@
             "atk": 1,
             "price": 10,
             "giftRate": 1,
-            "name": "ヒルチャール・強"
+            "name": "銀スライム"
         },
         {
             "imageName": "gold-club",
@@ -58,7 +58,7 @@
             "atk": 1,
             "price": 25,
             "giftRate": 1,
-            "name": "ヒルチャール・邪"
+            "name": "金スライム"
         },
         {
             "imageName": "blowgun",
