@@ -26,7 +26,7 @@
             "ability": "sell",
             "price": 5,
             "giftRate": 20,
-            "name": "売る"
+            "name": "押し売り"
         },
         {
             "imageName": "buy",
@@ -42,7 +42,7 @@
             "atk": 1,
             "price": 1,
             "giftRate": 3,
-            "name": "銅のこん棒"
+            "name": "ヒルチャール"
         },
         {
             "imageName": "silver-club",
@@ -50,7 +50,7 @@
             "atk": 1,
             "price": 10,
             "giftRate": 1,
-            "name": "銀のこん棒"
+            "name": "ヒルチャール・強"
         },
         {
             "imageName": "gold-club",
@@ -58,7 +58,7 @@
             "atk": 1,
             "price": 25,
             "giftRate": 1,
-            "name": "金のこん棒"
+            "name": "ヒルチャール・邪"
         },
         {
             "imageName": "blowgun",
